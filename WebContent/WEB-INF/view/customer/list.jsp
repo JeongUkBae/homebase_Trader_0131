@@ -1,8 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <jsp:include page="../home/top.jsp"/>
-<link rel="stylesheet" 
-	href="${css}/customer/list.css" />
+<link rel="stylesheet" 	href="${css}/customer/list.css" />
+<link rel="stylesheet" 	href="${css}/customer/navi-bar.css" />
 <div class="grid-item" id="nav">
 	<jsp:include page="../employee/nav.jsp"/>
 </div>
